@@ -1,0 +1,67 @@
+#section1{
+    background-color: black;
+    color: white;
+    width: 200px;
+}
+#s1,#s2,#s3{
+    font-size: larger;
+    margin-left: 10px;
+    margin-top: 15px;
+    display: flex;
+}
+#section{
+    display: flex;
+}
+#section2{
+    margin-left: 20px;
+    color: white;
+
+}
+body,#ss3{
+    background-color: rgb(34, 34, 34);
+}
+#s2{
+    font-size: 30px;
+}
+#ss2{
+    background-color: rgb(74, 70, 70);
+    font-size: larger;
+    width: 250px;
+    margin-right: 30px;
+    
+    
+    
+}
+#b{
+    display: flex;
+    
+
+}
+#a{
+    display: flex
+    
+}
+#s3{
+    font-size: large;
+}
+#z,#s{
+    display: flex;
+}
+#x{
+    color: white;
+}
+#f{
+    margin-left: 300px;
+}
+#g{
+    margin-left: 100px;
+}
+#t{
+    margin-left: 1000px;
+}
+#u{
+    font-size: medium;
+    margin-left: 800px;
+}
+
+
